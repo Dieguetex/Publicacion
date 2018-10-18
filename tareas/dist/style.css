@@ -1,0 +1,8 @@
+:root {--colorbase: silver;};
+
+.cambiar{
+    color: var(--colorbase);
+    -webkit-transform: rotate3d(60deg);
+            transform: rotate3d(60deg);
+    display: grid;
+}
